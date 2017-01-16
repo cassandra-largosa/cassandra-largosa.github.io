@@ -1,4 +1,4 @@
-{
+,{
   "basics": {
     "name": "Cassandra Largosa",
     "label": "Student",
@@ -23,6 +23,10 @@
       {
         "network": "linkedin",
         "url": "https://www.linkedin.com/in/cassandra-largosa-206134133"
+      },
+      {
+        "network": "techhui",
+        "url": "http://www.techhui.com/profile/CassandraLargosa"
       },
     ]
   },
