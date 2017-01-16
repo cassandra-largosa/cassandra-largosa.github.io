@@ -2,10 +2,10 @@
   "basics": {
     "name": "Cassandra Largosa",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/images/Myself.jpg",
     "email": "cjlargos@hawaii.edu",
-    "phone": "",
-    "website": "https://cjlargos.github.io",
+    "phone": "(808)381-5175",
+    "website": "https://cassandra-largosa.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
       "address": "",
@@ -17,14 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "cjlargos",
-        "url": "http://github.com/cjlargos"
+        "username": "cassandra-largosa",
+        "url": "http://github.com/cassandra-largosa"
+      },
+      {
+        "network": "linkedin",
+        "url": "https://www.linkedin.com/in/cassandra-largosa-206134133"
       },
     ]
   },
   "interests": [
     {
-      "name": "",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
