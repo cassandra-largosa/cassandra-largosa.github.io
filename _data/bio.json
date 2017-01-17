@@ -52,10 +52,10 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
+        "WindowsOS",
         "g++",
-        "TI LaunchPad"
+        "gcc",
+        "jGrasp"
       ]
     }
   ],
