@@ -8,7 +8,7 @@ labels:
   - Configuration Management
 ---
 
-Configuration management is tracking the changes made to the files that make up a system. When good configuration management techniques are employed, it is easy to revert to a functioning version of the system should something stop working as intended after an update. Tracking the changes also means having a relatively easy way to find what caused the problem.
+Configuration management is tracking the changes made to the files that make up a system. When good configuration management techniques are employed it is easy to revert to a functioning version of the system should something stop working as intended after an update. Tracking the changes also means having a relatively easy way to find what caused the problem.
 
 Proper configuration management is important. More so when working with a team, which in the workplace is bound to happen. When working with a team it is difficult to know what everyone is has changed, there needs to be an efficient way to track the changes so that if something fails to work properly the cause of the problem can be found regardless of how many members of the team are available at the time when the problem was found.
 
