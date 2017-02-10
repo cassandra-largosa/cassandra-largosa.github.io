@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Have Some Standards
-date: 2017-09-07
+date: 2017-02-09
 labels:
   - ICS 314
   - Coding Standards
