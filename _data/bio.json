@@ -3,7 +3,7 @@
     "name": "Cassandra Largosa",
     "label": "Student",
     "picture": "/images/Myself.jpg",
-    "email": "cjlargos@hawaii.edu",
+    "email": "cassandraLargosa@gmail.com",
     "phone": "(808)381-5175",
     "website": "https://cassandra-largosa.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
@@ -51,7 +51,9 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "JavaScript",
+        "Python"
       ]
     },
     {
@@ -59,17 +61,14 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "WindowsOS",
-        "g++",
-        "gcc",
-        "jGrasp"
+        "WindowsOS"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.A.",
       "startDate": "2013-08-26",
       "endDate": "Present",
